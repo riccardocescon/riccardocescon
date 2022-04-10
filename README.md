@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dart, C**
 
-- 👨‍💻 All of my projects are available at [www.cescon.dev](cescon.dev)
+- 👨‍💻 All of my projects are available at [cescon.dev](www.cescon.dev)
 
 - 💬 Ask me about **Dart, Unity, C#, Java, MySQL**
 
