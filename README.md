@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riccardocescon&theme=dracula" alt="riccardocescon" /></a> </p>
 
-- 🔭 I’m currently working on [Chess Strategy](https://github.com/riccardocescon/chess_startegy)
+- 🔭 I’m currently working on [Clean Chess](https://github.com/riccardocescon/clean_chess)
 
 - 🌱 I’m currently learning **Dart, C**
 
